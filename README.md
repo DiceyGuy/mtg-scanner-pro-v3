@@ -40,6 +40,18 @@ git clone https://github.com/DiceyGuy/mtg-scanner-pro.git
 cd mtg-scanner-pro
 
 # Install dependencies
+
+# MTG Scanner Pro v3
+
+Klient-side nettapp for skanning av Magic: The Gathering-kort med WebRTC, Web Workers, Tesseract.js, Fuse.js og Scryfall API.
+
+## Komme i gang
+
+```bash
+git clone https://github.com/DiceyGuy/mtg-scanner-pro-v3.git
+cd mtg-scanner-pro-v3
+npm install
+npm start
 npm ci
 
 # Start development server
